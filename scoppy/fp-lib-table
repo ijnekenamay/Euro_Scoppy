@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "toggle_dpdt")(type "KiCad")(uri "${KIPRJMOD}/toggle_dpdt")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "scoppy")(type "KiCad")(uri "C:/Users/yaman/OneDrive/ドキュメント/KiCad/scoppy/scoppy")(options "")(descr ""))
+)
