@@ -24,4 +24,5 @@ Project to make an Eurorack version of "Scoppy" oscilloscope that works with Ras
 ## Feature
 
 - Two channels of input are available.
+- AC/DC coupling can be selected for each input.
 - ±30V and ±8V can be changed.
