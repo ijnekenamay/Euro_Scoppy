@@ -1,5 +1,5 @@
 # Euro_Scoppy
-Project to make an Eurorack version of "Scoppy" oscilloscope that works with Raspberry pi pico and Android phone.
+Project to make an Eurorack version of "[Scoppy](https://play.google.com/store/apps/details?id=xyz.fhdm.scoppy&hl=ja&gl=US))" oscilloscope that works with Raspberry pi pico and Android phone.
 
 !!!!!!! note !!!!!!!!
 - This PCB has not yet been manufactured.
@@ -26,3 +26,4 @@ Project to make an Eurorack version of "Scoppy" oscilloscope that works with Ras
 - Two channels of input are available.
 - AC/DC coupling can be selected for each input.
 - ±30V and ±8V can be changed.
+- It is based on an analog front-end PCB designed by [picoLABO](https://picolabo.org/plu2212-dso/)). 
