@@ -18,7 +18,7 @@ Project to make an Eurorack version of "Scoppy" oscilloscope that works with Ras
 
 ## Latest Status
 
-<img src="https://github.com/ijnekenamay/Euro_Scoppy/raw/main/image1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/ijnekenamay/Euro_Scoppy/main/scoppy/image1.png" width="500">
 
 
 ## Feature
