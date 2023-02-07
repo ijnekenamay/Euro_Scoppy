@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=TZ03R300F169B00
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2017-03-30 12:46:01
+Downloaded=2023-01-28 12:34:27
+3D=N

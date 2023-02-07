@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TZ03R300F169B00'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Murata Electronics", "TZ03R300F169B00" (!) = "", "TZ03(B)", "Other", "81-TZ03R300F169B00", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/TZ03R300F169B00?qs=8zleBc79i9%2Fgm%252B7vT2dRPQ%3D%3D", "", "", "", "", "Murata 5.2  30pF 100 V Ceramic Trimmer Capacitor, 0  +50% tolerance", "http://www.farnell.com/datasheets/1814121.pdf"
+END_PART
+
+END.

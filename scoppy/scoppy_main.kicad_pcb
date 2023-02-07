@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "mainboard_gerber/")
+      (outputdirectory "../main_gerber/")
     )
   )
 

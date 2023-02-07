@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TZ03_B_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TZ03_B_")
+        (spec "default")
+    )
+)

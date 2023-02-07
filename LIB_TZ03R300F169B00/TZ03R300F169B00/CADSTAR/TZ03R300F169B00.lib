@@ -1,0 +1,19 @@
+.TZ03R300F169B00 :1 ;Murata 5.2  30pF 100 V Ceramic Trimmer Capacitor, 0  +50% tolerance
+TZ03_B_
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN TZ03R300F169B00
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (TZ03R300F169B00)
+~!Mouser Part Number (81-TZ03R300F169B00)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/TZ03R300F169B00?qs=8zleBc79i9%2Fgm%252B7vT2dRPQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/1814121.pdf)
+~!Height (-)
+TZ03R300F169B00
+1.1!U 2.1!U 
