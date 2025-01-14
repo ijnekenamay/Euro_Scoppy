@@ -1,8 +1,8 @@
 # Euro_Scoppy
-Project to make an Eurorack version of "[Scoppy](https://play.google.com/store/apps/details?id=xyz.fhdm.scoppy&hl=ja&gl=US))" oscilloscope that works with Raspberry pi pico and Android phone.
+Project to make an Eurorack version of "([Scoppy](https://play.google.com/store/apps/details?id=xyz.fhdm.scoppy&hl=ja&gl=US))" oscilloscope that works with Raspberry pi pico and Android phone.
 
 !!!!!!! note !!!!!!!!
-- This PCB has not yet been manufactured.
+- I had long forgotten about this project. I finished the test build and verified that it works fine, but then I remembered I needed another oscilloscope for calibration and threw it away. Nothing wrong with just looking at the waveform shape. Enjoy.
 - Payment for the "Scoppy" application is required to use the two channels.
 - This project is ongoing.
 
@@ -11,10 +11,10 @@ Project to make an Eurorack version of "[Scoppy](https://play.google.com/store/a
 - [x] Idea sketch
 - [x] Draw proto Schematics
 - [x] Design proto PCB
-- [] Proto type
-- [] Design PCB
-- [] Fabrication PCB
-- [] Test Build
+- [x] Proto type
+- [x] Design PCB
+- [x] Fabrication PCB
+- [x] Test Build
 
 ## Latest Status
 
