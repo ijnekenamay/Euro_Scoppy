@@ -3,6 +3,7 @@ Project to make an Eurorack version of "([Scoppy](https://play.google.com/store/
 
 !!!!!!! note !!!!!!!!
 - I had long forgotten about this project. I finished the test build and verified that it works fine, but then I remembered I needed another oscilloscope for calibration and threw it away. Nothing wrong with just looking at the waveform shape. Enjoy.
+- Be sure to use a cable with “OTG” function. This is also shown in the Scoppy reference.
 - Payment for the "Scoppy" application is required to use the two channels.
 - This project is ongoing.
 
